@@ -5,6 +5,8 @@
 
 A command-line interface for temporary email addresses using [dropmail.me](https://dropmail.me) with real-time mail monitoring.
 
+![example](img/example.png)
+
 ## Features ✨
 
 - 🚀 Instant disposable email addresses
